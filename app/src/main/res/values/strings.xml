@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="hello_home">Welcome to Fitness Tracker</string>
+    <string name="add_workout">Add New Workout</string>
+    <string name="workout_type">Workout Type</string>
+    <string name="duration_minutes">Duration (minutes)</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
