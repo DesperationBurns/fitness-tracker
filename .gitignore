@@ -1,0 +1,62 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+.externalNativeBuild
+.cxx/
+
+# Kotlin/Graddle files
+.kotlin/
+kotlin-build/
+
+# IntelliJ
+out/
+*.hprof
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code
+.vscode/
+.classpath
+.project
+.settings/
+.c9/
+*.launch
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environment variables
+.env
+.env.local
